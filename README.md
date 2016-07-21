@@ -8,7 +8,7 @@
 
 ## Description
 
-_An Android app centered around keeping track of expenses. Users can add purchases and categorize them under several common expense types. Data is saved in Firebase and visualized with a colorful DecoView customized by category._
+_An Android app centered around keeping track of expenses. Users can add purchases and categorize them under several common expense types. Data is saved in Firebase and visualized with a colorful DecoView customized by category. Never mind the "Bribes" category. :)_
 
 ## Setup/Installation Requirements
 
